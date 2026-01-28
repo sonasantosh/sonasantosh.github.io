@@ -1,9 +1,8 @@
+# HTML Resume Page
+This Assignment is a simple **HTML Resume Page built using only HTML** and deployed using **GitHub Pages**.
+
 ## Author
 Santosh Kumar
-
-# HTML Resume Page
-
-This Assignment is a simple **HTML Resume Page built using only HTML** and deployed using **GitHub Pages**.
 
 ## Live Demo
 https://sonasantosh.github.io/
